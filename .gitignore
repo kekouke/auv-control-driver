@@ -1,3 +1,10 @@
 bin/
 build-driver/
 build-utility/
+
+*.qmake.stash
+*Makefile
+*Makefile.*
+
+*release/
+*debug/
